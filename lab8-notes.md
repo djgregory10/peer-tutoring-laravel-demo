@@ -1,7 +1,7 @@
 # Lab 8 – Laravel MVC Demo Notes
 
 **Course:** IS 6465-090 Web Based Applications
-**Student:** DJ
+**Student:** DJ (Don) Gregory
 **Repository:** chinmaythorat92/peer-tutoring-laravel-demo (Laravel 12, PHP, Blade, SQLite)
 **Codespace:** https://didactic-space-spork-vrp7x7rvg65hwqgq.github.dev/
 **Codespaces App:** https://didactic-space-spork-vrp7x7rvg65hwqgq-8000.app.github.dev/
